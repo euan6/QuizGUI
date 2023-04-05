@@ -1,0 +1,20 @@
+What is 2 + 2?
+4
+3
+2
+1
+What is 2 * 2?
+5
+4
+6
+3
+What is 20 / 4?
+4
+15
+5
+6
+What color is the sky?
+Black
+Grey
+Green
+Blue
